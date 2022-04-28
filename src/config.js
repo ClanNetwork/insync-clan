@@ -4,7 +4,7 @@ export const config = {
   STAKING_URL: "https://stake-testnet.clan.network/stake",
   NETWORK_NAME: "Clan Network",
   NETWORK_TYPE: "testnet",
-  CHAIN_ID: "gamecube-1",
+  CHAIN_ID: "playstation-1",
   CHAIN_NAME: "Clan playstation-1",
   COIN_DENOM: "CLAN",
   COIN_MINIMAL_DENOM: "uclan",
