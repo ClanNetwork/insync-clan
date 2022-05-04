@@ -1,6 +1,6 @@
 export const config = {
   RPC_URL: "https://rpc-testnet.clan.network",
-  REST_URL: "https://rest-testbet.clan.network",
+  REST_URL: "https://rest-testnet.clan.network",
   STAKING_URL: "https://stake-testnet.clan.network/stake",
   NETWORK_NAME: "Clan Network",
   NETWORK_TYPE: "testnet",
