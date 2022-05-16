@@ -2,7 +2,7 @@ export const config = {
   RPC_URL: "https://rpc-devnet.clan.network",
   REST_URL: "https://rest-devnet.clan.network",
   STAKING_URL: "https://stake-devnet.clan.network/stake",
-  NETWORK_NAME: "Clan Network",
+  NETWORK_NAME: "Clan Network - devnet",
   NETWORK_TYPE: "testnet",
   CHAIN_ID: "gamecube-1",
   CHAIN_NAME: "Clan gamecube-1",
